@@ -40,6 +40,9 @@ Add it once and you can install, and get automatic updates for, every plugin lis
 | <img src="https://raw.githubusercontent.com/GitHixy/MoogleMap/main/icon.png" width="40"> | [**MoogleMap**](https://github.com/GitHixy/MoogleMap) | A see-through map over your screen, one key away. Kupo! |
 | <img src="https://raw.githubusercontent.com/GitHixy/Aethermeter/main/icon.png" width="40"> | [**Aethermeter**](https://github.com/GitHixy/Aethermeter) | A damage and healing meter that lives inside the game. |
 
+> [!WARNING]
+> **Aethermeter: logs for FFLogs don't work yet.** FFLogs doesn't accept logs written by Aethermeter as valid, so they can't be used for rankings. I've contacted FF Logs about making them compliant, and I'll update this page when there's news. For ranked logs, keep using ACT or [IINACT](https://github.com/marzent/IINACT) for now.
+
 Looking for **LootView**? It's on the official Dalamud repository, so you can find it in `/xlplugins` without adding anything.
 
 ## A note on custom repositories
