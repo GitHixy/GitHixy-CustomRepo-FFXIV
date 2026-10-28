@@ -1,0 +1,6 @@
+[
+  { "repo": "GitHixy/HitSpark",  "categoryTags": ["ui"] },
+  { "repo": "GitHixy/FateLimit", "categoryTags": ["ui", "utility"] },
+  { "repo": "GitHixy/Chant",     "categoryTags": ["ui", "jobs"] },
+  { "repo": "GitHixy/MoogleMap", "categoryTags": ["ui", "utility"] }
+]
