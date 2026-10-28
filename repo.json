@@ -149,5 +149,43 @@
     ],
     "IsHide": false,
     "IsTestingExclusive": false
+  },
+  {
+    "Author": "GitHixy",
+    "Name": "Aethermeter",
+    "InternalName": "Aethermeter",
+    "AssemblyVersion": "0.1.2.0",
+    "Description": "Aethermeter is a combat meter drawn by the game itself: no external parser to start, nothing to attach.\n\nWHAT YOU GET\n\n- Damage, DPS, healing, HPS, damage taken, overhealing and deaths, live while you fight.\n- Every pull kept as its own segment, plus an Overall segment across them.\n- A breakdown for each player: abilities, crit and direct-hit rates, biggest hits, a damage graph and a recap of every death.\n- As many meter windows as you like, each on its own view.\n- Streamer mode: replace every player name with their job, or with initials.\n- Bars, fonts, colours and layout you can tune to taste.\n\nGETTING STARTED\n\nType /meter to show or hide the meter and /meter config for settings. /meter reset clears every segment.\nFound a bug or have an idea? Come and talk about it on Discord: https://discord.gg/9kjUjWDBkJ\n\nPRIVATE BY DESIGN\n\nAethermeter only reads what your client already receives. It never posts to chat and never sends anything anywhere: numbers stay on your screen.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/GitHixy/Aethermeter",
+    "Tags": [
+      "dps",
+      "hps",
+      "meter",
+      "parser",
+      "combat",
+      "damage",
+      "healing",
+      "ui"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "A damage and healing meter that lives inside the game.",
+    "AcceptsFeedback": true,
+    "IconUrl": "https://raw.githubusercontent.com/GitHixy/Aethermeter/main/icon.png",
+    "DownloadLinkInstall": "https://github.com/GitHixy/Aethermeter/releases/download/v0.1.2.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/GitHixy/Aethermeter/releases/download/v0.1.2.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/GitHixy/Aethermeter/releases/download/v0.1.2.0/latest.zip",
+    "DownloadCount": 0,
+    "LastUpdate": 1793220253,
+    "CategoryTags": [
+      "ui",
+      "jobs"
+    ],
+    "IsHide": false,
+    "IsTestingExclusive": false
   }
 ]
