@@ -3,6 +3,7 @@
   <img src="https://raw.githubusercontent.com/GitHixy/FateLimit/main/icon.png" alt="FateLimit" width="64" height="64">
   <img src="https://raw.githubusercontent.com/GitHixy/Chant/main/icon.png" alt="Chant" width="64" height="64">
   <img src="https://raw.githubusercontent.com/GitHixy/MoogleMap/main/icon.png" alt="MoogleMap" width="64" height="64">
+  <img src="https://raw.githubusercontent.com/GitHixy/Aethermeter/main/icon.png" alt="Aethermeter" width="64" height="64">
 </p>
 
 # GitHixy's Dalamud Plugins
@@ -37,6 +38,7 @@ Add it once and you can install, and get automatic updates for, every plugin lis
 | <img src="https://raw.githubusercontent.com/GitHixy/FateLimit/main/icon.png" width="40"> | [**FateLimit**](https://github.com/GitHixy/FateLimit) | See the edge of every FATE, and know before you step out of it. |
 | <img src="https://raw.githubusercontent.com/GitHixy/Chant/main/icon.png" width="40"> | [**Chant**](https://github.com/GitHixy/Chant) | A castbar that tells you when you can move, in the shape you like. |
 | <img src="https://raw.githubusercontent.com/GitHixy/MoogleMap/main/icon.png" width="40"> | [**MoogleMap**](https://github.com/GitHixy/MoogleMap) | A see-through map over your screen, one key away. Kupo! |
+| <img src="https://raw.githubusercontent.com/GitHixy/Aethermeter/main/icon.png" width="40"> | [**Aethermeter**](https://github.com/GitHixy/Aethermeter) | A damage and healing meter that lives inside the game. |
 
 Looking for **LootView**? It's on the official Dalamud repository, so you can find it in `/xlplugins` without adding anything.
 
