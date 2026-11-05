@@ -1,6 +1,4 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GitHixy/HitSpark/main/icon.png" alt="HitSpark" width="64" height="64">
-  <img src="https://raw.githubusercontent.com/GitHixy/FateLimit/main/icon.png" alt="FateLimit" width="64" height="64">
   <img src="https://raw.githubusercontent.com/GitHixy/Chant/main/icon.png" alt="Chant" width="64" height="64">
   <img src="https://raw.githubusercontent.com/GitHixy/MoogleMap/main/icon.png" alt="MoogleMap" width="64" height="64">
   <img src="https://raw.githubusercontent.com/GitHixy/Aethermeter/main/icon.png" alt="Aethermeter" width="64" height="64">
@@ -35,8 +33,6 @@ Add it once and you can install, and get automatic updates for, every plugin lis
 
 | | Plugin | What it does |
 |---|---|---|
-| <img src="https://raw.githubusercontent.com/GitHixy/HitSpark/main/icon.png" width="40"> | [**HitSpark**](https://github.com/GitHixy/HitSpark) | Replace the game's combat numbers with animated, styleable fly text. |
-| <img src="https://raw.githubusercontent.com/GitHixy/FateLimit/main/icon.png" width="40"> | [**FateLimit**](https://github.com/GitHixy/FateLimit) | See the edge of every FATE, and know before you step out of it. |
 | <img src="https://raw.githubusercontent.com/GitHixy/Chant/main/icon.png" width="40"> | [**Chant**](https://github.com/GitHixy/Chant) | A castbar that tells you when you can move, in the shape you like. |
 | <img src="https://raw.githubusercontent.com/GitHixy/MoogleMap/main/icon.png" width="40"> | [**MoogleMap**](https://github.com/GitHixy/MoogleMap) | A see-through map over your screen, one key away. Kupo! |
 | <img src="https://raw.githubusercontent.com/GitHixy/Aethermeter/main/icon.png" width="40"> | [**Aethermeter**](https://github.com/GitHixy/Aethermeter) | A damage and healing meter that lives inside the game. |
@@ -44,7 +40,20 @@ Add it once and you can install, and get automatic updates for, every plugin lis
 > [!WARNING]
 > **Aethermeter: logs for FFLogs don't work yet.** FFLogs doesn't accept logs written by Aethermeter as valid, so they can't be used for rankings. I've contacted FF Logs about making them compliant, and I'll update this page when there's news. For ranked logs, keep using ACT or [IINACT](https://github.com/marzent/IINACT) for now.
 
-Looking for **LootView**? It's on the official Dalamud repository, so you can find it in `/xlplugins` without adding anything.
+## On the official Dalamud repository
+
+These plugins are on the official repository, so you can install them from `/xlplugins` without adding this one.
+
+| | Plugin | Channel | What it does |
+|---|---|---|---|
+| <img src="https://raw.githubusercontent.com/GitHixy/LootView/main/icon.png" width="40"> | [**LootView**](https://github.com/GitHixy/LootView) | Stable | See every item you and your party pick up, as it drops. |
+| <img src="https://raw.githubusercontent.com/GitHixy/HitSpark/main/icon.png" width="40"> | [**HitSpark**](https://github.com/GitHixy/HitSpark) | Testing | Replace the game's combat numbers with animated, styleable fly text. |
+| <img src="https://raw.githubusercontent.com/GitHixy/FateLimit/main/icon.png" width="40"> | [**FateLimit**](https://github.com/GitHixy/FateLimit) | Testing | See the edge of every FATE, and know before you step out of it. |
+
+To see the plugins in **Testing**, open `/xlsettings`, go to the **Experimental** tab, turn on **Get plugin testing builds** and save. They then show up in `/xlplugins`.
+
+> [!NOTE]
+> **Installed HitSpark or FateLimit from this repository?** They are no longer listed here and won't get updates from it. Uninstall them, then install them again from the official list as described above.
 
 ## A note on custom repositories
 
